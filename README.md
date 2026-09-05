@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Diogo Santos
+
+🎓 Estudante de Ciência da Computação
+💻 Tecnologia | Dados | Engenharia de Dados
+📊 Interesse em análise de dados, automação e soluções para cotação
+🐍 Atualmente estudando Python e SQL
+
 
 <!--
 **diogodominguestech/diogodominguestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
