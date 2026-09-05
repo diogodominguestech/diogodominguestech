@@ -31,6 +31,11 @@ Atualmente, estou desenvolvendo meus conhecimentos em *Python e SQL*, buscando a
 Atualmente construindo meus primeiros projetos práticos na área de tecnologia, com foco em *Python, SQL, Dados, Engenharia de Dados e Automação*.
 
 📌 Em breve, esta seção contará com projetos desenvolvidos durante minha jornada de aprendizado.
+## 🎓 Formação
+
+*Bacharelado em Ciência da Computação*
+Universidade Paulista — UNIP
+📅 Em andamento
 
 <!--
 **diogodominguestech/diogodominguestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
