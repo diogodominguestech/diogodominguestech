@@ -11,6 +11,21 @@ Sou estudante de Ciência da Computação e estou construindo minha trajetória 
 Atualmente, estou desenvolvendo meus conhecimentos em *Python e SQL*, buscando aprender na prática por meio de projetos e desafios que me ajudem a entender como os dados podem ser utilizados para criar soluções e gerar valor.
 
 🚀 Meu objetivo é evoluir continuamente, construir projetos reais e, ao longo da minha jornada, me especializar cada vez mais em *Engenharia de Dados*.
+## 🛠️ Tecnologias e Ferramentas
+
+### Atualmente estudando
+
+* 🐍 Python
+* 🗄️ SQL
+* 🐘 PostgreSQL
+* 🔄 ETL e Pipelines de Dados
+* 🐙 Git & GitHub
+
+### Próximos passos
+
+* 🐳 Docker
+* 📊 Análise e Visualização de Dados
+* ⚙️ Automação de processos
 
 <!--
 **diogodominguestech/diogodominguestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
