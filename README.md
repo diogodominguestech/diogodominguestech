@@ -4,7 +4,6 @@
 💻 Tecnologia | Dados | Engenharia de Dados
 📊 Interesse em Automação, Dados e desenvolvimento de soluções
 🐍 Atualmente estudando Python e SQL
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia, com interesse principalmente em *Dados, Engenharia de Dados e Automação*.
