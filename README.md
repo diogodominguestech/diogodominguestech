@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação
 💻 Tecnologia | Dados | Engenharia de Dados
-📊 Interesse em análise de dados, automação e soluções para cotação
+📊 Interesse em Automação, Dados e desenvolvimento de soluções
 🐍 Atualmente estudando Python e SQL
 
 
