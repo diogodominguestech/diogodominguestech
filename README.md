@@ -36,6 +36,11 @@ Atualmente construindo meus primeiros projetos práticos na área de tecnologia,
 *Bacharelado em Ciência da Computação*
 Universidade Paulista — UNIP
 📅 Em andamento
+## 📫 Contato
+
+💼 LinkedIn:(www.linkedin.com/in/diogosantosdomingues)
+
+📧 E-mail: diogodominguestech@gmail.com
 
 <!--
 **diogodominguestech/diogodominguestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
