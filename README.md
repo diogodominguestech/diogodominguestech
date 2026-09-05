@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Diogo Santos
+# 👋 Olá, eu sou o Diogo Domingues
 
 🎓 Estudante de Ciência da Computação
 💻 Tecnologia | Dados | Engenharia de Dados
